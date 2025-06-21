@@ -34,9 +34,9 @@ Mon objectif professionnel est de contribuer à des projets, et d'acquérir l'ex
 
 ## **Contactez-moi** :
 
-📧 **Email** : [pcombeaumansour@gmail.com](mailto:pcombeaumansour@gmail.com)
-💼 **LinkedIn**** : [https://www.linkedin.com/in/peggy-combeau-mansour]
-🌐 **Site Web** : [https://peggycm/github.io.Portefolio/]([https://ton-site.com](https://peggycm/github.io.Portefolio/))
+- 📧 **Email** : [pcombeaumansour@gmail.com](mailto:pcombeaumansour@gmail.com)
+- 💼 **LinkedIn**** : [https://www.linkedin.com/in/peggy-combeau-mansour](https://www.linkedin.com/in/peggy-combeau-mansour)
+- 🌐 **Site Web** : [https://peggycm/github.io.Portefolio/](https://peggycm/github.io.Portefolio/)
 
 ## 📚 **Ressources** :
 A venir
