@@ -14,7 +14,8 @@ Mon objectif professionnel est de contribuer à des projets, et d'acquérir l'ex
 - Tests automatisés fonctionnels : **Python**, **Selenium**, **Robot Framework**, **Pytest**
 - Tests automatisés systèmes et API : **Postman**
 - Editeurs de code : **VS Code**, **Cursor**, **Windsurf**
-- Web Frontend : **HTML**, **CSS**, **Tailwind CSS**
+- Web Frontend : **HTML**, **CSS**, **Tailwind CSS**, **javascript**
+- API rest et soap : **json**, **XML**
 - IA / DATA : **ChatGPT**, **Grok**, **AI Studio**, **Perplexity**, **Le chat**
 - Outils de gestion de projet : **Jira**, **Test director**
 - Mainframe IBM/MVS : **Cobol**, **JCL**, **TSO/ISPF**
