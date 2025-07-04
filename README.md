@@ -9,16 +9,17 @@ Mon objectif professionnel est de contribuer à des projets, et d'acquérir l'ex
 
 ## 🔍 **Compétences** :
 
-- Automatisation des tests avec **Selenium**, **Robot Framework**, **Pytest**.
-- Administration système : **Fedora**, **Virtual box**
-- Tests automatisés fonctionnels : **Python**, **Selenium**, **Robot Framework**, **Pytest**
+- Administration système : **Fedora**, **Windows**
+- Virtualisation : **Docker**, **Virtual box**
+- Langages : **Python**, **Javascript**, **Cobol**
+- Tests automatisés fonctionnels : **Selenium**, **Robot Framework**
+- Tests unitaires Python : **Pytest**
 - Tests automatisés systèmes et API : **Postman**
 - Editeurs de code : **VS Code**, **Cursor**, **Windsurf**
-- Web Frontend : **HTML**, **CSS**, **Tailwind CSS**, **javascript**
+- Web Frontend : **HTML**, **CSS**, **Tailwind CSS**
 - API rest et soap : **json**, **XML**
-- IA / DATA : **ChatGPT**, **Grok**, **AI Studio**, **Perplexity**, **Le chat**
 - Outils de gestion de projet : **Jira**, **Test director**
-- Mainframe IBM/MVS : **Cobol**, **JCL**, **TSO/ISPF**
+- Mainframe IBM/MVS : **JCL**, **TSO/ISPF**
 - Bases de données : **SQL**, **NoSQL**, **Docker**
 - Outils de conception graphique : **Canva**
 
