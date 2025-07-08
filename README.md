@@ -47,10 +47,22 @@ Expérimentée en tests manuels, je découvre avec enthousiasme les tests automa
 
 ### 🧪 Projets récents
 
-- 🚀 **[Evershop – Selenium + Pytest](https://github.com/PeggyCM/evershop-selenium)**  
+- 🔎 **[Projet banque - API - Postman](https://github.com/PeggyCM/Projet-de-Test-SQL-API)**  
+  Automatisation de tests d'API pour une banque
+
+- 🔎 **[Location de véhicules - API - Postman](https://github.com/PeggyCM/API-pour-la-Gestion-de-Location-de-V-hicules)**  
+  Automatisation de tests d'API sur Postman pour une agence de location de véhicules
+
+- 🧪 **[Ecriture CV en json](https://github.com/PeggyCM/CV-API)**  
+  Découverte du json
+
+- 🧪 **[Découverte animation](https://github.com/PeggyCM/site_anime)**  
+  Découverte de l'animation avec javascript
+
+- 🔎 **[Evershop – Selenium + Pytest](https://github.com/PeggyCM/evershop-selenium)**  
   Automatisation de tests E2E avec Selenium + Pytest sur un e-commerce
 
-- 🤖 **[Evershop – Robot Framework](https://github.com/PeggyCM/evershop-RFW)**  
+- 🔎 **[Evershop – Robot Framework](https://github.com/PeggyCM/evershop-RFW)**  
   Tests fonctionnels automatisés avec Robot Framework
 
 - 🌐 **[Portfolio HTML/CSS](https://peggycm.github.io/Portefolio/)**  
