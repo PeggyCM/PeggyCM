@@ -12,7 +12,7 @@ Expérimentée en tests manuels, je découvre avec enthousiasme les tests automa
 </td>
 <td>
 
-<img src="images/Loupe.jpg" alt="loupe" width="150">
+<img src="Loupe.jpg" alt="loupe" width="500">
 
 </td>
 </tr>
@@ -23,19 +23,19 @@ Expérimentée en tests manuels, je découvre avec enthousiasme les tests automa
 ### 💡 Compétences techniques
 
 #### 🖥️ Systèmes & Virtualisation
-> Fedora · Windows · Docker · VirtualBox
+> Fedora · Windows <br> Docker · VirtualBox
 
 #### 💻 Langages
 > Python · JavaScript · COBOL
 
 #### ✅ Tests
-> Selenium · Robot Framework · Pytest · Postman · SoapUI
+> Selenium · Robot Framework <br> Pytest <br> Postman · SoapUI
 
 #### 🌐 Front-end
 > HTML5 · CSS3 · Tailwind CSS
 
 #### 🧰 Outils
-> VS Code · Cursor · Jira · Canva · Test Director
+> VS Code · Cursor <br> Jira · Test Director <br> Canva 
 
 #### 🗃️ Base de données
 > SQL · PostgreSQL · NoSQL
