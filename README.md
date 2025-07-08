@@ -1,47 +1,73 @@
-# Bienvenue sur mon projet de formation 👋
+<table>
+<tr>
+<td>
 
-Je suis actuellement en formation pour devenir testeuse logiciel, et je vais déposer ici les projets de mon apprentissage aux tests automatisés.
+### 👋 Bienvenue !
 
-J'ai déjà une expérience dans les tests manuels. Et les tests automatisés, franchement, j'adore ! Passionnée par la qualité du code et l'amélioration 
-continue des processus, je retrouve, dans les tests, l'analyse et la résolution de problèmes que j'apprécie tout particulièrement. 
+Je suis en reconversion vers le métier de **testeuse logiciel**, passionnée par la qualité, l’amélioration continue, et les défis de l’automatisation.  
+Expérimentée en tests manuels, je découvre avec enthousiasme les tests automatisés.
 
-Mon objectif professionnel est de contribuer à des projets, et d'acquérir l'expertise qui apportera la garantie des applications et la satisfaction de l'utilisateur.
+🎯 Objectif : contribuer à des projets robustes, fiables et pensés pour l'utilisateur.
 
-## 🔍 **Compétences** :
+</td>
+<td>
 
-- Administration système : **Fedora**, **Windows**
-- Virtualisation : **Docker**, **Virtual box**
-- Langages : **Python**, **Javascript**, **Cobol**
-- Tests automatisés fonctionnels : **Selenium**, **Robot Framework**
-- Tests unitaires Python : **Pytest**
-- Tests automatisés systèmes et API : **Postman**
-- Editeurs de code : **VS Code**, **Cursor**, **Windsurf**
-- Web Frontend : **HTML**, **CSS**, **Tailwind CSS**
-- API rest et soap : **json**, **XML**
-- Outils de gestion de projet : **Jira**, **Test director**
-- Mainframe IBM/MVS : **JCL**, **TSO/ISPF**
-- Bases de données : **SQL**, **NoSQL**, **Docker**
-- Outils de conception graphique : **Canva**
+<img src="images/Loupe.jpg" alt="loupe" width="150">
 
-## 🌟 **Projets récents** :
+</td>
+</tr>
+</table>
 
-- [Tests avec pytest/selenium de création d'un e-commerce sur le site Evershop, avec la base de données docker](https://github.com/PeggyCM/evershop-selenium)
-- [Tests avec Robot FrameWork de création d'un e-commerce sur le site Evershop, avec la base de données docker](https://github.com/PeggyCM/evershop-RFW)
-- [Portefolio] : créé avec HTML et CSS pour l'instant
+---
 
-## 📈 Mes Stats GitHub :
+### 💡 Compétences techniques
 
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=PeggyCM&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+#### 🖥️ Systèmes & Virtualisation
+> Fedora · Windows · Docker · VirtualBox
 
+#### 💻 Langages
+> Python · JavaScript · COBOL
 
-## **Contactez-moi** :
+#### ✅ Tests
+> Selenium · Robot Framework · Pytest · Postman · SoapUI
 
-- 📧 **Email** : [pcombeaumansour@gmail.com](mailto:pcombeaumansour@gmail.com)
-- 💼 **LinkedIn**** : [https://www.linkedin.com/in/peggy-combeau-mansour](https://www.linkedin.com/in/peggy-combeau-mansour)
-- 🌐 **Site Web** : [https://peggycm.github.io.Portefolio/](https://peggycm.github.io/Portefolio/)
+#### 🌐 Front-end
+> HTML5 · CSS3 · Tailwind CSS
 
-## 📚 **Ressources** :
-A venir
+#### 🧰 Outils
+> VS Code · Cursor · Jira · Canva · Test Director
 
-## 💻 **Contributions** :
-A venir
+#### 🗃️ Base de données
+> SQL · PostgreSQL · NoSQL
+
+#### 🧮 Mainframe IBM
+> TSO/ISPF · JCL
+
+---
+
+### 🧪 Projets récents
+
+- 🚀 **[Evershop – Selenium + Pytest](https://github.com/PeggyCM/evershop-selenium)**  
+  Automatisation de tests E2E avec Selenium + Pytest sur un e-commerce
+
+- 🤖 **[Evershop – Robot Framework](https://github.com/PeggyCM/evershop-RFW)**  
+  Tests fonctionnels automatisés avec Robot Framework
+
+- 🌐 **[Portfolio HTML/CSS](https://peggycm.github.io/Portefolio/)**  
+  Création d’un portfolio responsive
+
+---
+
+### 📈 Mes stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PeggyCM&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical" />
+</p>
+
+---
+
+### 📫 Me contacter
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pcombeaumansour@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/peggy-combeau-mansour)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=internet-explorer&logoColor=white)](https://peggycm.github.io/Portefolio/)
