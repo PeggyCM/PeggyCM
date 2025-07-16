@@ -47,10 +47,10 @@ Expérimentée en tests manuels, je découvre avec enthousiasme les tests automa
 
 ### 🧪 Projets récents
 
-- 🔎 **[Projet Livraison - API - Postman et SOAP UI](https://github.com/PeggyCM/API-SOAP-TP)**  
+- 🔎 **[Projet Livraison - API - Postman et SoapUI](https://github.com/PeggyCM/API-SOAP-TP)**  
   Découverte de SOAP UI de tests d'API pour une gestion de livraison
   
-- 🔎 **[Projet Evershop - API - Postman](https://github.com/PeggyCM/API-SOAP-TP)**  
+- 🔎 **[Projet Evershop - API - Postman](https://evershop.io/docs/api/overview)**  
   Automatisation de tests d'API pour un e-commerce
 
 - 🔎 **[Projet banque - API - Postman](https://github.com/PeggyCM/Projet-de-Test-SQL-API)**  
