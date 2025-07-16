@@ -38,7 +38,7 @@ Expérimentée en tests manuels, je découvre avec enthousiasme les tests automa
 > VS Code · Cursor <br> Jira · Test Director <br> Canva 
 
 #### 🗃️ Base de données
-> SQL · PostgreSQL · NoSQL
+> SQL · PostgreSQL · MySQL · NoSQL
 
 #### 🧮 Mainframe IBM
 > TSO/ISPF · JCL
@@ -46,6 +46,12 @@ Expérimentée en tests manuels, je découvre avec enthousiasme les tests automa
 ---
 
 ### 🧪 Projets récents
+
+- 🔎 **[Projet Livraison - API - Postman et SOAP UI](https://github.com/PeggyCM/API-SOAP-TP)**  
+  Découverte de SOAP UI de tests d'API pour une gestion de livraison
+  
+- 🔎 **[Projet Evershop - API - Postman](https://github.com/PeggyCM/API-SOAP-TP)**  
+  Automatisation de tests d'API pour un e-commerce
 
 - 🔎 **[Projet banque - API - Postman](https://github.com/PeggyCM/Projet-de-Test-SQL-API)**  
   Automatisation de tests d'API pour une banque
